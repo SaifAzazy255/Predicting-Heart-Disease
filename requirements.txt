@@ -1,0 +1,14 @@
+# Data Manipulation & Visualization
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+
+# Machine Learning Base (Scikit-learn handles LR, KNN, SVC, Trees, etc.)
+scikit-learn
+
+# Advanced Boosting Frameworks
+xgboost
+catboost
+lightgbm
